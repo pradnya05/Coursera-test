@@ -1,5 +1,5 @@
 var speakgood={};
-speakgood.world="Goodbye";
+speakgood.world="Good Bye";
 speakgood.speak=function (name){
 	console.log(speakgood.world+ " " + name);
 
